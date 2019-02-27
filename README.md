@@ -1,3 +1,3 @@
 # rsschool-2019Q1-html-css
-# nupaT
+# Evgeni Anisoev 
 # HTML CSS Basics: https://www.codecademy.com/users/nupaT/achievements
